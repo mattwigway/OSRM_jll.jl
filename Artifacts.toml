@@ -1,0 +1,84 @@
+[[OSRM]]
+arch = "aarch64"
+git-tree-sha1 = "b6167766fa86af3dbd1b2e2c1869f575e360ddb6"
+os = "macos"
+
+    [[OSRM.download]]
+    sha256 = "49837b9d4c458e695f2220a27d9465dbb345ea5f787085587b274f3d490780e6"
+    url = "https://github.com/mattwigway/OSRM_jll.jl/releases/download/OSRM-v5.28.0+0/OSRM.v5.28.0.aarch64-apple-darwin.tar.gz"
+[[OSRM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dfd4aca3fff4b78488ca4eee34e8c1a9a9494827"
+libc = "glibc"
+os = "linux"
+
+    [[OSRM.download]]
+    sha256 = "1c9bf1f4805bbeda21380a0478950f3ccda2aa8f78947be5a537b8e4288b5ed9"
+    url = "https://github.com/mattwigway/OSRM_jll.jl/releases/download/OSRM-v5.28.0+0/OSRM.v5.28.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[OSRM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f97563117926f5ce62ac09612b701e36e3a0f423"
+libc = "glibc"
+os = "linux"
+
+    [[OSRM.download]]
+    sha256 = "c3ce74ac6e5811c284c604edc877c7e7a8d684a6038cce5ea47c4260c01b3062"
+    url = "https://github.com/mattwigway/OSRM_jll.jl/releases/download/OSRM-v5.28.0+0/OSRM.v5.28.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[OSRM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2a68e62b4d82cc365b839d7064029f69ec0ae2ce"
+libc = "glibc"
+os = "linux"
+
+    [[OSRM.download]]
+    sha256 = "0f932d8312b8c658dfd9db5c7e8b9873b595c05d7d8355bc071e24b3eb7cb1eb"
+    url = "https://github.com/mattwigway/OSRM_jll.jl/releases/download/OSRM-v5.28.0+0/OSRM.v5.28.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[OSRM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6e77a09b9e811852905ff9ef97b8ee70a5a30906"
+libc = "glibc"
+os = "linux"
+
+    [[OSRM.download]]
+    sha256 = "5db10407347f66ca63b7c08054fe0d282e3c0da171f05271227aac4e130f269c"
+    url = "https://github.com/mattwigway/OSRM_jll.jl/releases/download/OSRM-v5.28.0+0/OSRM.v5.28.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[OSRM]]
+arch = "x86_64"
+git-tree-sha1 = "a9f4d7dd7502037c6821d2af7f5c77b2da4c5d2f"
+os = "macos"
+
+    [[OSRM.download]]
+    sha256 = "d16041bae4dfeb21fea9d66e814cf2e45a3091ee527dfcee0dcee7e492d85dbf"
+    url = "https://github.com/mattwigway/OSRM_jll.jl/releases/download/OSRM-v5.28.0+0/OSRM.v5.28.0.x86_64-apple-darwin.tar.gz"
+[[OSRM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a814b9e81011efb6cac1ccd2d19b53ebe4e57c4"
+libc = "glibc"
+os = "linux"
+
+    [[OSRM.download]]
+    sha256 = "8cd3b3bdc7d3c4d27e913818247e1203dde82cbf855e9ccc049234aaf2b45c90"
+    url = "https://github.com/mattwigway/OSRM_jll.jl/releases/download/OSRM-v5.28.0+0/OSRM.v5.28.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[OSRM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a0f776edde2b82e906576469cae457b4a9ec995b"
+libc = "glibc"
+os = "linux"
+
+    [[OSRM.download]]
+    sha256 = "e50e4207919515c0d928a38b15d4639edc8ffee6c192134f1283f9c841fa5124"
+    url = "https://github.com/mattwigway/OSRM_jll.jl/releases/download/OSRM-v5.28.0+0/OSRM.v5.28.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[OSRM]]
+arch = "x86_64"
+git-tree-sha1 = "5c03f2d3c5739909d2eff3825f9a390f27ff3a23"
+os = "freebsd"
+
+    [[OSRM.download]]
+    sha256 = "035421d1b51955e3ffe45b5b84aeff776849d223fdf8b36425a15a614d948879"
+    url = "https://github.com/mattwigway/OSRM_jll.jl/releases/download/OSRM-v5.28.0+0/OSRM.v5.28.0.x86_64-unknown-freebsd.tar.gz"
